@@ -14,7 +14,7 @@
 
 <div align="center">
   <br />
-      <img src="src/assets/images/Home/Screenshot 2025-03-19 151150.png" alt="Project Banner">
+      <img src="src/assets/images/Home/Screenshot2025-03-1915115.jpeg" alt="Project Banner">
       <br />
   <br />
   <br />
