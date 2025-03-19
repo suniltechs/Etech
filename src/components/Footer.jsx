@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import Logo from "/src/assets/images/Footer/Logo 2.png";
+import Logo from "/src/assets/images/Footer/logo 2.png";
 import { footerLinks } from "../Data/Data.js";
 
 // social lists
