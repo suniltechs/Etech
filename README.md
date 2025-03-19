@@ -5,7 +5,7 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/-Live%20Demo-4640DE?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/suniltechs/Etech)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-4640DE?style=for-the-badge&logo=vercel&logoColor=white)](https://etechs.netlify.app/)
 
 <br />
 </div>
